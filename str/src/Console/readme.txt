@@ -1,0 +1,3 @@
+C++
+MinGW
+gcc
